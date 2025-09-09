@@ -94,8 +94,5 @@ With **10 years of experience**, I have worked on advanced software development 
 ---
 
 ## 📫 Connect with Me
-
-- arsagrdkronos
 - Connect with me
-- arsagrdkronos@example.com
 - Discord: `arsagrdkronos` (Click to copy: `arsagrdkronos`)
